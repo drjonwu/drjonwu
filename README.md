@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Jonathan 👋
+**I am a Physician who speaks "Engineer."**
 
-<!--
-**drjonwu/drjonwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't write production code. I build **functional prototypes** to validate clinical logic and safety constraints before engineering teams start building.
 
-Here are some ideas to get you started:
+**My Architecture Philosophy:**
+* **Safety First:** Logic must be deterministic where possible (see `VaxCheck`).
+* **Auditability:** Generative AI must cite its sources (see `MedGuide`).
+* **Interoperability:** Data schemas must align with FHIR/HL7 standards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Stacks:**
+* **Prototyping:** React, TypeScript, Python
+* **AI Ops:** RAG, Vector Embeddings, Chain-of-Thought
+* **Domain:** Clinical Informatics, Pharmacovigilance, HEDIS
